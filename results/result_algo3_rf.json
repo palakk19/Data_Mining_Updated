@@ -1,0 +1,13 @@
+{
+  "Member": "Member 3",
+  "Algorithm": "Random Forest",
+  "Best Parameter": "max_depth=8, max_features=sqrt, n_estimators=100",
+  "CV Train Accuracy": 0.964835164835165,
+  "Test Accuracy": 0.956140350877193,
+  "Precision": 0.9512195121951219,
+  "Recall": 0.9285714285714286,
+  "F1-Score": 0.9397590361445783,
+  "ROC-AUC": 0.9942129629629629,
+  "Missed Malignant (FN)": 3,
+  "False Alarms (FP)": 2
+}

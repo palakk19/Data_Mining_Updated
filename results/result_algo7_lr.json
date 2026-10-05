@@ -1,0 +1,13 @@
+{
+  "Member": "Member 7",
+  "Algorithm": "Logistic Regression",
+  "Best Parameter": "C=0.1, penalty=l2",
+  "CV Train Accuracy": 0.9824175824175825,
+  "Test Accuracy": 0.9824561403508771,
+  "Precision": 0.9761904761904762,
+  "Recall": 0.9761904761904762,
+  "F1-Score": 0.9761904761904762,
+  "ROC-AUC": 0.996031746031746,
+  "Missed Malignant (FN)": 1,
+  "False Alarms (FP)": 1
+}

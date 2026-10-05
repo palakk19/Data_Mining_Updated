@@ -1,0 +1,13 @@
+{
+  "Member": "Baseline",
+  "Algorithm": "Majority-class baseline",
+  "Best Parameter": "always predict benign",
+  "CV Train Accuracy": 0.6263736263736264,
+  "Test Accuracy": 0.631578947368421,
+  "Precision": 0.0,
+  "Recall": 0.0,
+  "F1-Score": 0.0,
+  "ROC-AUC": 0.5,
+  "Missed Malignant (FN)": 42,
+  "False Alarms (FP)": 0
+}

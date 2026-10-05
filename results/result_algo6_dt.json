@@ -1,0 +1,13 @@
+{
+  "Member": "Member 6",
+  "Algorithm": "Decision Tree",
+  "Best Parameter": "criterion=entropy, max_depth=4, min_samples_split=10",
+  "CV Train Accuracy": 0.934065934065934,
+  "Test Accuracy": 0.9298245614035088,
+  "Precision": 0.9047619047619048,
+  "Recall": 0.9047619047619048,
+  "F1-Score": 0.9047619047619048,
+  "ROC-AUC": 0.9613095238095238,
+  "Missed Malignant (FN)": 4,
+  "False Alarms (FP)": 4
+}

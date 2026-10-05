@@ -1,0 +1,13 @@
+{
+  "Member": "Member 5",
+  "Algorithm": "k-Nearest Neighbors (k-NN)",
+  "Best Parameter": "metric=manhattan, n_neighbors=3, weights=uniform",
+  "CV Train Accuracy": 0.9714285714285715,
+  "Test Accuracy": 0.9649122807017544,
+  "Precision": 0.975,
+  "Recall": 0.9285714285714286,
+  "F1-Score": 0.9512195121951219,
+  "ROC-AUC": 0.9713955026455027,
+  "Missed Malignant (FN)": 3,
+  "False Alarms (FP)": 1
+}

@@ -1,0 +1,13 @@
+{
+  "Member": "Member 2",
+  "Algorithm": "Support Vector Machine (SVM)",
+  "Best Parameter": "C=0.1, kernel=linear",
+  "CV Train Accuracy": 0.9758241758241759,
+  "Test Accuracy": 0.9824561403508771,
+  "Precision": 0.9761904761904762,
+  "Recall": 0.9761904761904762,
+  "F1-Score": 0.9761904761904762,
+  "ROC-AUC": 0.9937169312169313,
+  "Missed Malignant (FN)": 1,
+  "False Alarms (FP)": 1
+}

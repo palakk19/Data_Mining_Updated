@@ -1,0 +1,13 @@
+{
+  "Member": "Member 4",
+  "Algorithm": "Gradient Boosting",
+  "Best Parameter": "learning_rate=0.2, max_depth=3, n_estimators=200",
+  "CV Train Accuracy": 0.9736263736263737,
+  "Test Accuracy": 0.956140350877193,
+  "Precision": 0.9743589743589743,
+  "Recall": 0.9047619047619048,
+  "F1-Score": 0.9382716049382716,
+  "ROC-AUC": 0.9957010582010581,
+  "Missed Malignant (FN)": 4,
+  "False Alarms (FP)": 1
+}
